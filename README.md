@@ -43,9 +43,6 @@ In this project, I explored its implementation step by step, including:
 
 ---
 
-## **Requirements**
-
-Create a file named **requirements.txt** and add the following:
 
 ```txt
 numpy
